@@ -1,0 +1,124 @@
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="utf-8">
+    <title>Watermelon Game - Merge the Fruits</title>
+    <link rel="shortcut icon" href="https://waterWater.com/assets/img/favicon.png" type="image/png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="Play Watermelon game online! Merge the fruits in the box and try to make a biggest watermelon!">
+    <meta name="keywords" content="watermelon, suika, game, fruits, drop, box, container, score, play, online">
+    <link href="https://waterwater.com/assets/css/main.min.css?v1.46" rel="stylesheet">
+
+    <meta property="og:title" content="Watermelon Game - Merge the Fruits">
+    <meta property="og:description" content="Play Watermelon game online! Merge the fruits in the box and try to make a biggest watermelon!">
+    <meta property="og:locale" content="en">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://waterwater.com">
+    <meta property="og:site_name" content="Watermelon Game - Merge the Fruits">
+    <meta property="og:width" content="1024">
+    <meta property="og:height" content="1024">
+    <meta property="og:image" content="https://waterwater.com/assets/img/watermelon-game.png">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Watermelon Game - Merge the Fruits" />
+    <meta name="twitter:description" content="Play Watermelon game online! Merge the fruits in the box and try to make a biggest watermelon!" />
+    <meta name="twitter:image" content="https://watermelongame.com/assets/img/watermelon-game.png">
+
+    <meta name="csrf-token" content="JUT8rvhO26ibs2waxnMvoQkqNYSqdguswAHqIhSk">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#46c340">
+    <meta name="msapplication-TileColor" content="#d6f6c5">
+    <meta name="theme-color" content="#ffffff">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KSZSWYCDML"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-KSZSWYCDML');
+    </script>
+    
+    <script type="text/javascript">
+    var ezstandalone = ezstandalone || {};
+    ezstandalone.cmd = ezstandalone.cmd || [];
+    ezstandalone.cmd.push(function() {
+    ezstandalone.define(101, 104);
+    ezstandalone.enable();
+    ezstandalone.display();
+    });
+    </script>
+    <script src="//www.ezojs.com/ezoic/sa.min.js"></script>
+    
+    <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=65a4000db492fb00132dcf7e&product=sop' async='async'></script>
+        
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "https://watermelongame.com",
+    "name": "Watermelon Game - Merge the Fruits",
+    "description": "Play Watermelon game online! Merge the fruits in the box and try to make a biggest watermelon!",
+    "category": "Productivity",
+    "image": "https://watermelongame.com/assets/img/watermelon-game.png",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "worstRating": "1",
+        "bestRating": "5"
+                    ,"ratingValue": "4.8",
+        "ratingCount": "1021"
+                }
+    }
+</script>
+</head>
+<body>
+<div class="page">
+    <div class="page__wrapper">
+        
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "@id": "https://watermelongame.com/#organization",
+            "name": "Watermelon Game",
+            "url": "https://watermelongame.com/",
+            "sameAs": []
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://watermelongame.com/#website",
+            "url": "https://watermelongame.com/",
+            "name": "Watermelon Game",
+            "publisher": {
+                "@id": "https://watermelongame.com/#organization"
+            }
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://watermelongame.com#webpage",
+            "url": "https://watermelongame.com",
+            "inLanguage": "en",
+            "name": "Watermelon Game",
+            "isPartOf": {
+                "@id": "https://watermelongame.com#website"
+            },
+            "image": {
+                "@type": "ImageObject",
+                "@id": "https://watermelongame.com#primaryimage",
+                "url": "https://watermelongame.com/assets/img/watermelon-game.png",
+                "width": 1024,
+                "height": 1024
+            },
+            "primaryImageOfPage": {
+                "@id": "https://watermelongame.com#primaryimage"
+            },
+            "datePublished": "2021-04-12T19:42:27-12:00",
+            "description": "Watermelon Game (or Suika) is a puzzle where you need to place fruits in a container and try not to cross the top line. Fruits of the same type will combine and create a larger fruit. The goal of the game is to get a watermelon and try to score as many points as possible."
+        }
+    ]
+}
+</script>

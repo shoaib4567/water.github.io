@@ -1,0 +1,275 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "HowTo",
+    "name": "How to play the Watermelon Game?",
+    "url": "https://watermelongame.com",
+    "inLanguage": "https://watermelongame.com",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://watermelongame.com/assets/img/watermelon-game.png"
+    },
+    "step": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Drop the first fruit",
+            "text": "To start the game, drop the first fruit by clicking the mouse or tapping on the screen inside the game container. As soon as the first fruit falls, a new fruit will appear on top and so on.",
+            "image": "https://watermelongame.com/assets/img/watermelon-game-how-to-1.png"
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Merge the fruits",
+            "text": "As soon as identical fruits touch each other they form a new larger fruit. The bigger fruit you get, the more points you earn. The largest fruit in the game is the watermelon.",
+            "image": "https://watermelongame.com/assets/img/watermelon-game-how-to-2.png"
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Create a watermelon",
+            "text": "The goal of the game is to get the largest fruit, that is, a watermelon. But the game doesn&#039;t end there, try to get as many points as possible until the fruit reaches the top level of the box.",
+            "image": "https://watermelongame.com/assets/img/watermelon-game-how-to-3.png"
+        }
+    ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is the Watermelon game?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In the watermelon game, you need to compactly place the fruits in the box and try not to exceed the top line. Identical fruits will merge with each other and form larger fruits. The objective of the game is to get a watermelon and score as many points as possible."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "When does the game end?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The game ends as soon as one of the fruits crosses the top line within a few seconds. Therefore, try to stack fruits compactly and in the right combinations."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can I play Watermelon game unlimited?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, on our website you can play as much as you like. Try to practice the watermelon game more often and then your results will get better and better!"
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many points do different fruits earn?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "
+<p>
+There are a total of 11 types of different fruits, here is the list (from smallest fruit to largest):
+<br>● <b>Cherry</b> (2 points)
+<br>● <b>Strawberry</b> (4 points)
+<br>● <b>Grape</b> (6 points)
+<br>● <b>Pear</b> (8 points)
+<br>● <b>Orange</b> (10 points)
+<br>● <b>Apple</b> (12 points)
+<br>● <b>Lemon</b> (14 points)
+<br>● <b>Peach</b> (16 points)
+<br>● <b>Pineapple</b> (18 points)
+<br>● <b>Melon</b> (20 points)
+<br>● <b>Watermelon</b> (22 points)
+</p>
+            "
+            }
+        }
+    ]
+}
+</script>
+
+    <section class="section section--main">
+        <div class="container no-pading">
+
+            <section class="section section--main" style="height:100vh;max-height:700px">
+        <iframe id="iframehtml5" width="100%" height="100%" frameborder="0" border="0" scrolling="no" class="iframe-default" allowfullscreen="true" src="https://watermelongame.com/watermelon-game/"></iframe>
+    </section>            
+        </div>
+            
+            <div class="container" style="padding:15px 0">
+    <div class="banner banner_middle">
+        <div id="ezoic-pub-ad-placeholder-104"> </div>
+    </div>
+</div>    </section>
+
+    <section class="section section--top">
+        <div class="container">
+            <div class="headline">
+                <h1 class="headline__title">Watermelon Game</h1>
+                <h2 class="headline__text">Watermelon Game (or Suika) is a puzzle where you need to place fruits in a container and try not to cross the top line. Fruits of the same type will combine and create a larger fruit. The goal of the game is to get a watermelon and try to score as many points as possible.</h2>
+            </div>
+        </div>
+    </section>
+            
+            <section class="section">
+    <div class="container">
+        <div class="watermelon-text">
+            <h2 class="info_text">Play Other Games</h2>
+        </div>
+        <div class="games">
+            <a href="https://infinite-craft.com/" class="game-item" target="_blank">
+              <div class="game-item__img">
+                <img src="/assets/img/infinite-craft-play.png?v3" alt="Infinite Craft">
+              </div>
+              <div class="game-item__info">
+                <div class="game-item__title">Infinite Craft</div>
+                <div class="game-item__text">Combine elements and make new things</div>
+                <div class="game-item__bottom">
+                   <div class="game-item__play">Play</div>
+                </div>
+              </div>
+            </a>
+            <a href="https://2048.gg/" class="game-item" target="_blank">
+              <div class="game-item__img">
+                <img src="/assets/img/2048-play.png?v3" alt="2048">
+              </div>
+              <div class="game-item__info">
+                <div class="game-item__title">2048</div>
+                <div class="game-item__text">Play 2048 number game</div>
+                <div class="game-item__bottom">
+                   <div class="game-item__play">Play</div>
+                </div>
+              </div>
+            </a>
+        </div>
+    </div>
+</section>
+    <section class="section">
+        <div class="container">
+            <div class="watermelon-text">
+            <h2 class="h2--center">How to play the Watermelon Game?</h2>
+            <ol class="ol">
+                <li>
+                    <h3>Drop the first fruit</h3><span>To start the game, drop the first fruit by clicking the mouse or tapping on the screen inside the game container. As soon as the first fruit falls, a new fruit will appear on top and so on.</span>
+                    <img src="https://watermelongame.com/assets/img/watermelon-game-how-to-1.png" alt="Drop the first fruit" title="Drop the first fruit">
+                </li>
+                <li>
+                    <h3>Merge the fruits</h3><span>As soon as identical fruits touch each other they form a new larger fruit. The bigger fruit you get, the more points you earn. The largest fruit in the game is the watermelon.</span>
+                    <img src="https://watermelongame.com/assets/img/watermelon-game-how-to-2.png" alt="Merge the fruits" title="Merge the fruits">
+                </li>
+                <li>
+                    <h3>Create a watermelon</h3><span>The goal of the game is to get the largest fruit, that is, a watermelon. But the game doesn&#039;t end there, try to get as many points as possible until the fruit reaches the top level of the box.</span>
+                    <img src="https://watermelongame.com/assets/img/watermelon-game-how-to-3.png" alt="Create a watermelon" title="Create a watermelon">
+                </li>
+            </ol>
+            </div>
+        </div>
+    </section>
+
+    <section class="section section--grey">
+        <div class="container">
+            <div class="faq">
+                <h2>Frequently Asked Questions</h2>
+                <ol>
+                    <li>
+                        <h3>What is the Watermelon game?</h3>
+                        <p>In the watermelon game, you need to compactly place the fruits in the box and try not to exceed the top line. Identical fruits will merge with each other and form larger fruits. The objective of the game is to get a watermelon and score as many points as possible.</p>
+                    </li>
+                    <li>
+                        <h3>When does the game end?</h3>
+                        <p>The game ends as soon as one of the fruits crosses the top line within a few seconds. Therefore, try to stack fruits compactly and in the right combinations.</p>
+                    </li>
+                    <li>
+                        <h3>Can I play Watermelon game unlimited?</h3>
+                        <p>Yes, on our website you can play as much as you like. Try to practice the watermelon game more often and then your results will get better and better!</p>
+                    </li>
+                    <li>
+                        <h3>How many points do different fruits earn?</h3>
+                        <p>
+<p>
+There are a total of 11 types of different fruits, here is the list (from smallest fruit to largest):
+<br>● <b>Cherry</b> (2 points)
+<br>● <b>Strawberry</b> (4 points)
+<br>● <b>Grape</b> (6 points)
+<br>● <b>Pear</b> (8 points)
+<br>● <b>Orange</b> (10 points)
+<br>● <b>Apple</b> (12 points)
+<br>● <b>Lemon</b> (14 points)
+<br>● <b>Peach</b> (16 points)
+<br>● <b>Pineapple</b> (18 points)
+<br>● <b>Melon</b> (20 points)
+<br>● <b>Watermelon</b> (22 points)
+</p>
+            </p>
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="container">
+            <div class="watermelon-text">
+                
+            <h2 class="h2--center">About Watermelon Game</h2>
+            <p class="h2--center">
+Watermelon Game is a fun puzzle game where you have to put different fruits into a box one by one. The game gained great popularity in the second half of 2023 among Tiktok, Twitch and YouTube bloggers, as it combines the mechanics of such popular games as 2048 and Tetris.
+<br>The goal of the game is to connect identical fruits and eventually get a large watermelon, and also collect as many points as possible. The game ends when the fruit completely fills the box and crosses the top line.
+<br>The watermelon game is a great way to pass the time in a fun way or compete with friends in your ability to fold fruit compactly.
+            </p>
+            
+            </div>
+        </div>
+    </section>
+
+    <section class="section section--rate">
+    <div class="container">
+        <div class="rate">
+            <div class="rate__title">Rate WatermelonGame.com:</div>
+            <div class="rate__stars">
+                <fieldset class="starability-basic" data-section="en">
+                    <input class="input-no-rate" id="no-rate" type="radio" name="rating" value="0" checked="" aria-label="No rating" autocomplete="off"  checked  >
+                    <input id="first-rate1" type="radio" name="rating" value="1" autocomplete="off"  >
+                    <label class="hint" for="first-rate1" title="Awful"><span class="hint__hidden">Awful</span></label>
+                    <input id="first-rate2" type="radio" name="rating" value="2" autocomplete="off"  >
+                    <label class="hint" for="first-rate2" title="Poor"><span class="hint__hidden">Poor</span></label>
+                    <input id="first-rate3" type="radio" name="rating" value="3" autocomplete="off"  >
+                    <label class="hint" for="first-rate3" title="Average"><span class="hint__hidden">Average</span></label>
+                    <input id="first-rate4" type="radio" name="rating" value="4" autocomplete="off"  >
+                    <label class="hint" for="first-rate4" title="Good"><span class="hint__hidden">Good</span></label>
+                    <input id="first-rate5" type="radio" name="rating" value="5" autocomplete="off"  >
+                    <label class="hint" for="first-rate5" title="Excellent"><span class="hint__hidden">Excellent</span></label>
+                </fieldset>
+            </div>
+            <div class="rate__numbers"><b>4.8</b> / 5</div>
+            <div class="rate__votes"><span>1,021</span> votes</div>
+        </div>  
+    </div>
+</section>
+
+    </div>
+    <footer class="footer">
+        <div class="container">
+            <div class="footer__top">
+                <a class="footer__logo" href="/">
+                    <img src="/assets/img/logo.svg?v1.46" alt="Watermelon Game - Merge the Fruits">
+                </a>
+            </div>
+            <div class="footer__bottom">
+                <div class="footer__copir">WatermelonGame.com © 2024 All rights reserved.</div>
+                <ul class="footer__links">
+                    <li><a href="mailto:hello@watermelongame.com?subject=Watermelon Game">Feedback</a></li>
+                    <li><a href="/privacy-policy">Privacy Policy</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+</div>
+
+<script src="https://waterwater.com/assets/js/main.min.js?v1.46"></script>
+
+</body>
+</html>
