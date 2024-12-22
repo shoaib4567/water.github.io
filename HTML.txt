@@ -3,9 +3,6 @@
     "@context": "http://schema.org",
     "@type": "HowTo",
     "name": "How to play the Watermelon Game?",
-    "url": "https://watermelongame.com",
-    "inLanguage": "https://watermelongame.com",
-    "image": {
         "@type": "ImageObject",
     
         {
